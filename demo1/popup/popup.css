@@ -1,0 +1,14 @@
+/* 设置弹出窗口的基本样式 */
+body {
+    display: flex;
+    flex-direction: column;
+    width: 200px;  /* 设置弹出窗口宽度 */
+    padding: 10px;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+#colorPicker {
+    width: 100%;
+}
